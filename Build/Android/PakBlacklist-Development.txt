@@ -17,7 +17,13 @@
 ../../../Engine/Content/Functions/
 ../../../Engine/Content/Maps/
 ../../../Engine/Content/MobileResources/
-../../../Engine/Content/Slate/
+../../../Engine/Content/Slate/Common/
+../../../Engine/Content/Slate/CrashTracker/
+../../../Engine/Content/Slate/Docking/
+../../../Engine/Content/Slate/Icons/
+../../../Engine/Content/Slate/MessageLog/
+../../../Engine/Content/Slate/Old/
+../../../Engine/Content/Slate/Testing/
+../../../Engine/Content/Slate/Tutorials/
+../../../Engine/Content/Slate/Checkerboard.png
 ../../../Engine/Content/Tutorial/
-../../../Engine/Content/Internationalization
-../../../Engine/Content/Localization
