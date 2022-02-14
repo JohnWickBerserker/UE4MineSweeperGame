@@ -1,5 +1,4 @@
 ../../../Engine/Content/ArtTools/
-../../../Engine/Content/EngineFonts/Faces/
 ../../../Engine/Content/EngineMaterials/BlueNoise
 ../../../Engine/Content/EngineMaterials/DefaultBloomKernel
 ../../../Engine/Content/EngineMaterials/DefaultBokeh
